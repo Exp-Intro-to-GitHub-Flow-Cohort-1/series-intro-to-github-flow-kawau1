@@ -59,6 +59,17 @@ Branches allow you to separate your work from the `main` branch. In other words,
 
 6. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
+## ステップ 1: ブランチを作成する
+「GitHub入門」へようこそ!👋
+
+**GitHubとは**: GitHub は、バージョン管理にGitを使用するコラボレーションプラットフォームです。GitHubは、オープンソースソフトウェアを共有し、貢献するための人気のある場所です。
+
+**リポジトリとは**: リポジトリは、ファイルとフォルダを含むプロジェクトです。リポジトリは、ファイルとフォルダのバージョンを追跡します。詳しい情報については、GitHub Docsの「リポジトリについて」を参照してください。
+
+**ブランチとは**: ブランチは、リポジトリの並列バージョンです。デフォルトでは、リポジトリには 1 つのブランチがあり、それが最終的なブランチと見なされます。追加のブランチを作成すると、リポジトリのブランチをコピーし、メインプロジェクトを中断することなく安全に変更を加えることができます。多くのユーザーは、ブランチを使用して、プロジェクトの他の部分に影響を与えることなく特定の機能に取り組みます。ブランチを使用すると、作業をブランチから分離できます。言い換えれば、あなたが貢献している間、全員の作業は安全です。詳細については、「ブランチについて」を参照してください。
+
+**プロファイルREADMEとは**: プロファイルのREADMEは、基本的にGitHubプロファイルの"自己紹介"セクションであり、GitHub.com上のコミュニティと自分に関する情報を共有できます。GitHub では、プロファイルページの上部にプロファイルのREADMEが表示されます。詳しい情報については「プロファイルのREADMEを管理する」を参照してください。
+
 <footer>
 
 <!--
